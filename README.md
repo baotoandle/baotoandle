@@ -26,9 +26,9 @@ In addition to my data science skills, I'm also an experienced educator and team
 
 * **Senior Teacher, ILA Vietnam:** Led a team of 15 educators, designed and delivered English curriculum, achieving an 80%+ average student pass rate. Mentored junior teachers and partnered with senior leadership on strategic initiatives.  
 
-* **Data Research Scientist, Latin American Youth Center:** Led data collection, analysis, and reporting for 3,000+ youth program participants. Designed surveys and assessments, produced data visualizations, and trained staff on data entry and analysis. (Quantify achievements and add GitHub project links.)_
+* **Data Research Scientist, Latin American Youth Center:** Led data collection, analysis, and reporting for 3,000+ youth program participants. Designed surveys and assessments, produced data visualizations, and trained staff on data entry and analysis. <!--(Quantify achievements and add GitHub project links.)-->
 
-* **Health Educator, AmeriCorps:** Delivered health education workshops and organized community health events. <!--(Quantify achievements.)-->
+* **Health Educator, AmeriCorps:** Delivered health education workshops and organized community health events. 
 
 ## Education
 

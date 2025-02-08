@@ -1,7 +1,8 @@
 ## Hi there 👋
 My name is Toan.
 
-## 🔭 I’m currently working on creating a resume project
+## About Me
+🔭 I’m currently working on creating a resume project
 🌱 I’m currently learning more about AI 
 👯 I’m looking to collaborate on making a small game
 🤔 I’m looking for help with design and editing

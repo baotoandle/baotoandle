@@ -1,11 +1,11 @@
 ## Hi there 👋
 My name is Toan.
-
-## About Me
 🔭 I’m currently working on creating a resume project.
 🌱 I’m currently learning more about AI.
 👯 I’m looking to collaborate on making a small game.
 🤔 I’m looking for help with my career.
+
+## About Me
 
 My expertise lies in data analysis, visualization, team leadership, and communication. I thrive in collaborative environments and enjoy tackling complex challenges.
 In addition to my data science skills, I'm also an experienced educator and team leader. I've successfully managed and mentored teams, fostering professional growth and optimizing team performance.  I'm adept at curriculum development, instructional design, and integrating technology into educational settings.
